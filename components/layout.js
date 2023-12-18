@@ -2,9 +2,10 @@ import Head from 'next/head';
 import Image from 'next/image';
 import styles from './layout.module.css';
 import utilStyles from '../styles/utils.module.css';
+import * as emoji from 'node-emoji'
 import Link from 'next/link';
 
-const name = 'Happy Birthday Viola';
+const name = 'Happy Birthday Viola!!!';
 export const siteTitle = 'Next.js Sample Website';
 
 export default function Layout({ children, home }) {
@@ -30,20 +31,35 @@ export default function Layout({ children, home }) {
           <>
             <Image
               priority
-              src="/images/pikachu.png"
+              src="/images/viola.png"
               className={utilStyles.borderCircle}
               height={144}
               width={144}
               alt=""
             />
-            <h1 className={utilStyles.heading2Xl}>{name}</h1>
+            <h1 className={utilStyles.heading2Xl}>{name}🎉</h1>
+            <p>
+              Happy Birthday my dear Viola Dheena Pongajow!<br/>
+            </p>
+            <p>
+              I 💚 You !
+            </p>
+            <p>
+              First, I apologize🙏for this ultra-simple blog style website🚧 that I specifically build for your birthday🍥. 
+              Full disclosure, I have thought about building you a website from a few months🌙 ago, imagining flashy animations 🎦, flowers 🌻, and confettis 🎊 as you open the page.
+              But as i have realized🙀, I still practically zero knowledge about building beautiful website🥀
+            </p>
+            <p> 
+              Rest asured, this web shall be a multi-year📅 series to celebrate your birthday, to serve as the storage of my wishes🕯️ and celebration for your birthday.
+              Also I take the liberty to include your past birthday hopes🌟 and parties <b>for you, my dear</b>🤗💋
+            </p>
           </>
         ) : (
           <>
             <Link href="/">
               <Image
                 priority
-                src="/images/pikachu.png"
+                src="/images/viola.png"
                 className={utilStyles.borderCircle}
                 height={108}
                 width={108}

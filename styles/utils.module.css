@@ -50,3 +50,19 @@
   .lightText {
     color: #666;
   }
+
+  .disabled{
+    pointer-events: none;
+    color: #666;
+  }
+
+  .linkBlog{
+    transition: 0.05s;
+    color: black;
+  }
+
+  .linkBlog:hover{
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+  }

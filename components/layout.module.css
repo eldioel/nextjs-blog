@@ -12,4 +12,12 @@
 
 .backToHome {
     margin: 3rem 0 0;
+    transition: 0.05s;
+    color: black;
+}
+
+.backToHome:hover {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
 }
