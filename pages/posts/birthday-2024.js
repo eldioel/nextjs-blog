@@ -5,7 +5,7 @@ import Date from '../../components/date';
 import utilStyles from '../../styles/utils.module.css';
 
 export default function birthday2024() {
-  const title = "A Step to Remember"
+  const title = "Engaged Birthday gal"
   const date = "2024-12-20"
 
   return (
@@ -14,126 +14,72 @@ export default function birthday2024() {
         <title>{title}</title>
       </Head>
       <article>
-        <h1 className={utilStyles.headingXl}>{title}🌏</h1>
+        <h1 className={utilStyles.headingXl}>{title}💅🏻</h1>
         <div className={utilStyles.lightText}>
           <Date dateString={date} />
         </div>
 
         <p>
-          Selamat Ulang Tahun yang ke-24 Viola Dheena Pongajow, <b>sayangku</b>💘
+          Happy 25th Birthday my Love, my Fiancé, my future, <b>my forever</b>♾️,<br/>
+          my one and only Viola Dheena Pongajow
         </p>
 
         <p>
-          Jadi gimana nih, pulang atau tidak kamuuu?? Ulang tahun merayakan jauh dari keluarga, masa natal le jauhhh.
-          Kalo mo suruh tnya, ya tska ngn pulang noo, ta kangen bangettt, lia jo, klo so gmpang marah, kurang telpon" dan cari" trus, percayalah itu krna kangen.
-        </p>
-        <p>
-          But whatever you chose, I know for a fact that it will be for the best hmm.
+          Full disclosure, I did write that this website should be receiving it's animation-filed pdate after 2023, but seems like time just comes by
+          too fast, I am really sorry for this same-cosmetic website in 2024. And also, this year's birthday message may mostly talk about us and our plans because
+          <br></br><b>I pop the question OMG!</b>
         </p>
 
         <p>
-          Maaf ya viola akhir" ini ta bking pstiu bnya bacari, banya ba larang, ba bermain, banya marah",
-          especially baru" yg tda ba coding malam-malam hari senin kmren yg tda bilang deadline nanti rabu? tebak for apa hihihihi.
-          Sudah cukup minta maaf sekarang waktunya <b>wishes</b>
+          As I'm writing this, it is still a mystery wether  you are going to celebrate this year's birthday with me or not(Update: you did!), whatever that is, 
+          one thing for sure, we are going to celebrate your birthday as a one-step closer couple👩‍❤️‍👨. For the first time in your many birthdays, I pronouce
+          you as someone's Fiancé! <br/>In this case, <b>Viola is Eldio's Fiancé!!</b>
         </p>
 
         <p>
-          Sebagai mahasiswa, tentu saja jadi lebe tau atur waktu, tau atur prioritas (looking at you, journal dan skripsi).
-          Mar honestly gila si so bisa dibilang chinese speaker nd sih ngn, keren bgt beb!
-          Smo lanjut magang ini, semoga lebih bijak memilah waktu antar kerjaan dan kuliahan, sekurang-kurang procastination, walaupun ttau ng msh lbe rajin drpd qt awwkwkwk.
-          Dan tentusaja, <b>secepat kelar supaya ...</b>
-        </p>
-        <p>
-          Sebagai anak, sebagai kakak, sebagai cucu, kyknya nd prlu bnyak wish la ya, so nd prlu wish banyak-banyak sayang keluarga soalnya memang defaultnya mmg so selalu sayang hihihihi.
-        </p>
-        <p>
-          Sebagai viola, still be you that are always give the best in anything, may you be blessed with the courage to fight while at the same time understand those who are not align with you.
-          May you are blessed with the strength to push on, to always strive for greatness and dont let anybody define your actions, and do not let anybody define who you are.
-        </p>
-        <p>
-          Viola tuh cantik, viola tuh rajin, viola tu jago menyanyi, viola tuh jgo memasak, viola tuh gga di fotoo, percaya pa qt bebbb, jgn lagi bnyak overthinking kalo viola kurang ini itu.
-          Beh apalagi tu overthinking-overthinking lainnya tentang apapun itu se kurang-kurang yaaaa, nd ada gunanya, nd tre terjadi mar trg so capek dluan (itu le saran for qt sih awkwkwk).
-        </p>
-        <p>
-          Semoga viola lebe rajin bakabar, apalagi kalo so malam hmmmmm. Semoga viola lebe rajin masak, lbe perhatikan jumlah makan, perhatikan jumlah steps, supaya sehat ee jgn negative thinking xp.
-          Semoga diberi kekuatan buat ldr :3 semoga lebe sabar menghadapi ke-asu-an eldio hihihihi semoga cepat dpa bli hp baru xp.
-          Semoga sekurang ja ba lupa", se kurang dpe ba blanja se bnya di batabung (for eldio le itu :v)
-        </p>
-        <p>
-          Semoga disertai Tuhan selalu dalam segala langkahmu, tidak lupa ibadah, berdoa, membaca alkitab, dan tidak jauh dari Tuhan.
-        </p>
-        <p>
-          And finally, to you my dear, I will always pray for you, for your life to be as His command, to your hopes and dreams, to your long joyfull life.
-          To your future, to <b>our</b> future, to our relationship, to our hopes and dreams.
+          Counting the last hours of Viola's Birthday, we are faced with <b>adulting</b> problems. Starting from each other's work, fellow, our future,
+          and one in particular is that a planed date needs to be canceled because of Eldio's work. A pre-celebration of Viola's Birthday where we talk 
+          about our plans, our future, our preparations, our family, along with many others has to be halted due to a unforeseen circumsatances. Fortunately, (Hopefully) We were able to talk out
+          of it but both of us cant seem to hide the dissapointment. "Loving each other so much is not quite enough" I said, followed by "Why is it so hard to unite" said Viola.
+          Grimm Night Indeed.
         </p>
 
         <p>
-          Lanjuttt <b>buka dulu dong hadiahnyaaa</b>
+          A Long Drive and Night followed after I drove Viola to Hotel Rogers. But dear, I cant help to think that how funny and cute we are right now dealing with these
+          problems by <b>our</b> future self. I cant help myself for smiling!! It must be even greater and harder problems we would already been through together to think that
+          this is just something to laught about. Notice that I use "us", "our", "together" when I'm describing the future? That's because you are my future babee, there's no other way,
+          there is no other future.<br/>JUST YOU.
         </p>
 
         <p>
-          ---- buka hadiahnya dulu ----
+          I cant help it, this birthday wish just turn into a love letter! Just like your writing in 2014, you know, the "Viola sedang jatung cinta ..." HEHEHEHEHEHEH
         </p>
 
         <p>
-          ---- buka hadiahnya dulu ----
+          Dear Viola Dheena Pongajow, my love, my bestfriend, my Fiancé, my future,  The greatest friend, 
+          my light in the dark, my sunshine at dawn, the jewel of my heart, the river with the strongest stream, the unmovable mountain, 
+          the strongest yet love the most. <br/><b>My dear, I with you the Happiest Birthday.</b>
         </p>
 
         <p>
-          ---- buka hadiahnya dulu ----
+          May you are blessed with the wisdom to fight any hardships ahead, the strongest will to fight for your dreams, the strength to uphold your faith,
+          the courage to love others. I pray for your success, your hopes and dreams, your family, your Loved Ones, and I pray all of it may 
+          represent God's the Almigthy Majesty and reflect His Honour.
         </p>
 
         <p>
-          ---- buka hadiahnya dulu ----
+          I pray for your speedly and swift Thesis development, hard and rigorous process may pass and in the end blessed
+          with Masters degree. I pray for your future plans, your plan to continue your study into higher heights I shall support it whole-heartedly 
+          wherever that may be. And finally, to us, to our plan, our preparations, whatever problems and obstacle we may encounter I pray we would go 
+          through it together and stronger. Selamat Ulang Tahun sayangku❤️
         </p>
 
         <p>
-          ---- buka hadiahnya dulu ----
+
         </p>
 
         <p>
-          ---- buka hadiahnya dulu ----
-        </p>
-
-        <p>
-          ---- buka hadiahnya dulu ----
-        </p>
-
-        <p>
-          ---- buka hadiahnya dulu ----
-        </p>
-
-        <p>
-          ---- buka hadiahnya dulu ----
-        </p>
-
-        <p>
-          ---- buka hadiahnya dulu ----
-        </p>
-
-        <p>
-          ---- buka hadiahnya dulu ----
-        </p>
-
-        <p>
-          ---- buka hadiahnya dulu ----
-        </p>
-
-        <p>
-          ---- buka hadiahnya dulu ----
-        </p>
-
-        <p>
-          Untuk hadiahnya, Terima Kasih radha so bli akang hadiahnya hehe.
-          Jadi beb tso rencanya mmg mo couple dg ngn xp, sblm qt bli tpe jam pun knp qt bli yg itu krna bnya tipe dan bnya warna hehehe.
-          Semoga cocok yaa bebebbb.
-        </p>
-        <p>
-          Segera kirim foto bgni spya tsmo upload dsni eheheh
-        </p>
-
-        <p><b>
-          Sekali lagi Selamat Ulang Tahun lipopaww, semangat LDRnyaaaa</b>
+          
         </p>
 
       </article>

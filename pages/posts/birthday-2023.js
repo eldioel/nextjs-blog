@@ -135,7 +135,7 @@ export default function birthday2022() {
         <div style={{ position: 'relative', height: '400px' }}>
           <Image
             alt="Eldikun and Violaw"
-            src="/images/2023_2.png"
+            src="/images/2023_3.png"
             fill
             sizes="(min-width: 808px) 50vw, 100vw"
             style={{

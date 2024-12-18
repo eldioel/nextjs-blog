@@ -70,7 +70,7 @@ export default function Home({ allPostsData, allPokemons }) {
           </li>
 
           <li className={utilStyles.listItem}>
-            <Link href={`/posts/birthday-2024`} className={utilStyles.linkBlog}>💍💍2024's birthday as a 🌹**serious**🌻 couple</Link>
+            <Link href={`/posts/birthday-2024`} className={utilStyles.linkBlog} disabled>💍💍2024's birthday as a 🌹**serious**🌻 couple</Link>
             <br />
             <small className={utilStyles.lightText}>
               <Date dateString={'2024-12-20'} />
